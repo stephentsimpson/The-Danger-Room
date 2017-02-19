@@ -1,0 +1,8 @@
+Path Option: Cmd
+SSH Option: OpenSSH
+CRLF Option: CRLFAlways
+Bash Terminal Option: MinTTY
+Performance Tweaks FSCache: Enabled
+Use Credential Manager: Enabled
+Enable Symlinks: Disabled
+Enable Builtin Difftool: Disabled
